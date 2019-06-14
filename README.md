@@ -1,2 +1,0 @@
-# jsfromzero
-Created with CodeSandbox
